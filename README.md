@@ -8,7 +8,9 @@ Realizar el juego vim Adventures
 Hacer un menú en bash que contenga un árbol de directorios
 ![image](https://github.com/dianadzc/Tareas27AV-DzulDiana/assets/117612218/ae19c5c5-70ea-4e41-9199-19bad5ca2496)
 gif Sistemas Operativos
+
 ![tarea#995(gif) (1)](https://github.com/dianadzc/Tareas27AV-DzulDiana/assets/117612218/d2c05a35-1d18-403f-b74a-47c715dfac03)
+
 
 tryhackme
 ![Parte 1 tryhackme](https://github.com/dianadzc/Tareas27AV-DzulDiana/assets/117612218/199cdefc-8dad-4808-bbc9-03ad9f29622f)
